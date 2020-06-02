@@ -1,0 +1,2 @@
+iko = 5
+print(iko)
